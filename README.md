@@ -2,6 +2,6 @@
 
 ### Today's weather in Taichung
 
-1. Temperature?19℃
-2. Humidity?53%
+1. Temperature? 19℃
+2. Humidity? 53%
    
